@@ -5,7 +5,7 @@
   </a>
 </p>
 
-> A simple Chat app using NodeJS Socket.IO and ReactJS
+> A simple Chat app using NodeJS and Socket.IO 
 
 ## Usage
 
