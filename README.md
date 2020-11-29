@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to Kappa Chat 👋</h1>
 <p>
-  <a href="https://twitter.com/tomas050302" target="_blank">
-    <img alt="Twitter: tomas050302" src="https://img.shields.io/twitter/follow/tomas050302.svg?style=social" />
+  <a href="https://twitter.com/tomaslopes_dev" target="_blank">
+    <img alt="Twitter: tomaslopes_dev" src="https://img.shields.io/twitter/follow/tomaslopes_dev.svg?style=social" />
   </a>
 </p>
 
@@ -17,7 +17,7 @@ yarn start
 
 👤 **Tomás Lopes**
 
-* Twitter: [@tomas050302](https://twitter.com/tomas050302)
+* Twitter: [@tomaslopes_dev](https://twitter.com/tomaslopes_dev)
 * Github: [@tomas050302](https://github.com/tomas050302)
 
 ## Show your support
